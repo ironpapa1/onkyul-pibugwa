@@ -1,0 +1,17 @@
+# Secrets and local environment settings
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and virtual environments
+node_modules/
+vendor/
+.venv/
+venv/
+__pycache__/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
